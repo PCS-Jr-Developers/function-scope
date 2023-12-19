@@ -1,6 +1,6 @@
 def change_number(input_num):
     # Modify the number inside the function
-    input_num= 4
+    input_num= input_num+4
     print("Inside the function:", input_num)
 
 # Define a number
